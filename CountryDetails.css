@@ -1,0 +1,14 @@
+
+.form-control{
+    
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    margin-left: 290px;
+    
+}
+
+.card-link{
+    text-decoration: none;
+    color: black;
+}
